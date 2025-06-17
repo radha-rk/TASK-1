@@ -24,13 +24,6 @@ To learn and apply the foundational concepts of web development by:
 
 ---
 
-## 📸 Screenshot
-
-![Preview](./girl.png)  
-> The image represents the right side of the card layout.
-
----
-
 ## ⚙️ How It Works
 
 - The layout is structured using **HTML div containers**.
