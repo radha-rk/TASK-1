@@ -62,3 +62,6 @@ Intern @ ApexPlanet Software Pvt. Ltd.
 NIT Jalandhar | Web Development Enthusiast  
 
 ---
+## screenshot
+![Screenshot 2025-06-08 191539](https://github.com/user-attachments/assets/125bc6fe-481d-4d52-9129-cf0b6573b70c)
+
